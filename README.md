@@ -178,7 +178,7 @@ Early subscription exits signal **expectation mismatch or onboarding gaps**, whi
 
 ---
 
-## ⏱ Product Stickiness: The “Time-to-Value” Crisis (Value Arrives Too Late)
+##  Product Stickiness: The “Time-to-Value” Crisis (Value Arrives Too Late)
 
 > *After identifying **when** users disengage, this section examines **why** retention fails at the product level.*
 
