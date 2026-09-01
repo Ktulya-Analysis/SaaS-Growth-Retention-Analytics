@@ -397,19 +397,3 @@ This structure ensures transparency, reproducibility, and easy navigation for bo
 This analysis is designed to support **Product, Growth, Customer Success, and Revenue leadership** in making informed decisions around retention, onboarding, and customer segment prioritization.
 
 ---
-
-## **Call-to-Action**
-
-```markdown
-# Call to Action
-
-If you would like to:
-- Explore the dataset in detail 
-- Request a walkthrough of the dashboard 
-- Discuss how to build similar BI solutions 
-- Collaborate on analytics or portfolio projects 
-
-Feel free to reach out or open an issue in the repository.
-
- **Happy analyzing!**
-```
